@@ -1,52 +1,48 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=OCXLY&fontSize=70&fontAlignY=38&desc=Object%20Core%20eXperience%20LaboratorY&descAlignY=60" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/ocxly/ocxly/main/assets/ocxly-logo.png" width="220"/>
+
 # ⚡ OCXLY
 
-### Object Core eXperience LaboratorY
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&center=true&width=700&lines=Founder+of+OCXLY;AI+Research+Lab;Building+Octayvia;Publishing+Knowledge;Creating+Better+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&center=true&width=800&lines=Founder+of+OCXLY;AI+Research+Lab;Building+Octayvia;Publishing+Knowledge;Creating+Better+Experiences" />
 </p>
 
-**Building AI • Publishing Knowledge • Creating Better Experiences**
-
-🌐 https://www.ocxly.com
+![Profile Views](https://komarev.com/ghpvc/?username=ocxly&label=Visitors)
 
 </div>
 
----
+## 🏆 GitHub Trophies
 
-## 👋 About Me
+![trophy](https://github-profile-trophy.vercel.app/?username=ocxly&theme=tokyonight&no-frame=true&row=1)
 
-Hi, I'm **OCXLY**.
+## 👋 About OCXLY
 
-I build AI-powered tools, educational resources, publishing projects, and experiments focused on learning, productivity, neurodiversity, and human-centered technology.
+AI • Publishing • Neurodiversity • Research • Education
 
 ### 🔭 Current Focus
-
 - AI Detection Research
-- Humanization & Writing Tools
+- Humanization Tools
 - Educational Publishing
 - Neurodiversity Projects
 - Web Applications
 
----
-
 ## 🚀 Featured Projects
 
-### 🤖 AI Detector
-Researching patterns used by AI-generated content and detection systems.
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Detector | AI-content detection research |
+| 💜 Octayvia | AI assistant for the ND community |
+| 📚 EnglishChair | Language-learning platform |
+| 🧠 ADHD Focus Helper | Productivity and focus tools |
 
-### 💜 Octayvia
-AI assistant concept created for the neurodivergent community.
+## 📊 GitHub Analytics
 
-### 📚 EnglishChair
-Language-learning and educational content platform.
+![Stats](https://github-readme-stats.vercel.app/api?username=ocxly&show_icons=true&theme=tokyonight)
 
-### 🧠 ADHD Focus Helper
-Tools designed to support focus and productivity.
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocxly&layout=compact&theme=tokyonight)
 
 ## 🛠 Tech Stack
 
@@ -56,27 +52,13 @@ Tools designed to support focus and productivity.
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
----
+## 🐍 Contribution Snake
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ocxly&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocxly&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 Mission
-
-> Technology should amplify human potential, not replace it.
-
----
+![Snake animation](https://github.com/ocxly/ocxly/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌍 Connect
 
 - Website: https://www.ocxly.com
 - Email: hello@ocxly.com
 
----
-
-⭐ Building one experiment at a time.
+> Technology should amplify human potential, not replace it.
