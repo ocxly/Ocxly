@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=OCXLY&fontSize=70&fontAlignY=38&desc=Object%20Core%20eXperience%20LaboratorY&descAlignY=60" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/ocxly/ocxly/main/assets/ocxly-logo.png" width="220"/>
+<img src="https://raw.githubusercontent.com/ocxly/ocxly/main/assets/ocxly-logo.webp" width="220"/>
 
 # ⚡ OCXLY
 
