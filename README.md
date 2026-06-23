@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Simil M S**, founder of **OCXLY**.
+Hi, I'm **OCXLY**.
 
 I build AI-powered tools, educational resources, publishing projects, and experiments focused on learning, productivity, neurodiversity, and human-centered technology.
 
