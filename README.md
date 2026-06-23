@@ -62,6 +62,34 @@ Location    : Digital First
 
 ---
 
+## 🧠 Neural Network Visualization
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Neural Activity Grid"/>
+</div>
+
+### Research Nodes
+
+```text
+◉ AI Systems
+├── Neural Interfaces
+├── Detection Models
+├── Humanization Research
+└── Experimental Architectures
+
+◉ Education Systems
+├── EnglishChair
+├── Publishing Tools
+└── Learning Technologies
+
+◉ Neurodiversity Lab
+├── Octayvia
+├── ADHD Focus Helper
+└── Accessibility Research
+```
+
+---
+
 ## 🛠 Technology Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
@@ -69,12 +97,6 @@ Location    : Digital First
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-
----
-
-## 🐍 Contribution Activity
-
-![Snake animation](https://github.com/ocxly/ocxly/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
