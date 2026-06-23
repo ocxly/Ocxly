@@ -4,7 +4,9 @@
 
 ### Object Core eXperience LaboratorY
 
-<img src="https://raw.githubusercontent.com/ocxly/ocxly/main/assets/ocxly-logo.png" width="220"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&center=true&width=700&lines=Founder+of+OCXLY;AI+Research+Lab;Building+Octayvia;Publishing+Knowledge;Creating+Better+Experiences" />
+</p>
 
 **Building AI • Publishing Knowledge • Creating Better Experiences**
 
@@ -16,31 +18,33 @@
 
 ## 👋 About Me
 
-Hi, I'm **Simil M S**.
+Hi, I'm **Simil M S**, founder of **OCXLY**.
 
-Founder of **OCXLY**, where I explore:
+I build AI-powered tools, educational resources, publishing projects, and experiments focused on learning, productivity, neurodiversity, and human-centered technology.
 
-- 🤖 Artificial Intelligence
-- 📚 Publishing & Education
-- 🌐 Web Technologies
-- 🧠 Neurodiversity & Accessibility
-- 🔬 Experimental Digital Products
+### 🔭 Current Focus
+
+- AI Detection Research
+- Humanization & Writing Tools
+- Educational Publishing
+- Neurodiversity Projects
+- Web Applications
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-### AI Detector
-Researching AI-generated content patterns and detection systems.
+### 🤖 AI Detector
+Researching patterns used by AI-generated content and detection systems.
 
-### Octayvia
-An AI assistant concept designed for the neurodivergent community.
+### 💜 Octayvia
+AI assistant concept created for the neurodivergent community.
 
-### EnglishChair
-Educational platform focused on learning and communication.
+### 📚 EnglishChair
+Language-learning and educational content platform.
 
-### ADHD Focus Helper
-Tools that support focus, planning, and productivity.
+### 🧠 ADHD Focus Helper
+Tools designed to support focus and productivity.
 
 ---
 
@@ -54,7 +58,7 @@ Tools that support focus, planning, and productivity.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ocxly&show_icons=true&theme=tokyonight)
 
