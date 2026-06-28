@@ -97,8 +97,11 @@ OCXLY:
 
 <br/>
 
-<!-- Achievements -->
-<img src="https://github-profile-trophy.vercel.app/?username=ocxly&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&title_color=00D4FF&text_color=9B51E0" alt="trophies"/>
+<!-- Lab milestones -->
+<img src="https://img.shields.io/badge/🧪_EXPERIMENTS-ACTIVE-00D4FF?style=for-the-badge&labelColor=05070f"/>
+<img src="https://img.shields.io/badge/🤖_AI_RESEARCH-ONGOING-6E44FF?style=for-the-badge&labelColor=05070f"/>
+<img src="https://img.shields.io/badge/🧠_NEURODIVERSITY-FIRST-9B51E0?style=for-the-badge&labelColor=05070f"/>
+<img src="https://img.shields.io/badge/📚_PUBLISHING-OPEN-00D4FF?style=for-the-badge&labelColor=05070f"/>
 
 </div>
 
