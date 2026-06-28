@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" fill="none" role="img" aria-label="OCXLY Research Lab">
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="50%" stop-color="#6E44FF"/>
+      <stop offset="100%" stop-color="#9B51E0"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#05070f"/>
+      <stop offset="60%" stop-color="#080b1c"/>
+      <stop offset="100%" stop-color="#0a0e22"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#6E44FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#6E44FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- backdrop -->
+  <rect width="1200" height="320" fill="url(#sky)"/>
+  <rect width="1200" height="320" fill="url(#halo)"/>
+
+  <!-- perspective grid floor -->
+  <g stroke="#00D4FF" stroke-width="1" opacity="0.22">
+    <line x1="0"    y1="320" x2="540" y2="210"/>
+    <line x1="150"  y1="320" x2="565" y2="210"/>
+    <line x1="300"  y1="320" x2="590" y2="210"/>
+    <line x1="450"  y1="320" x2="600" y2="210"/>
+    <line x1="600"  y1="320" x2="600" y2="210"/>
+    <line x1="750"  y1="320" x2="610" y2="210"/>
+    <line x1="900"  y1="320" x2="635" y2="210"/>
+    <line x1="1050" y1="320" x2="660" y2="210"/>
+    <line x1="1200" y1="320" x2="660" y2="210"/>
+    <g stroke="#6E44FF">
+      <line x1="0" y1="320" x2="1200" y2="320"/>
+      <line x1="80" y1="288" x2="1120" y2="288"/>
+      <line x1="180" y1="262" x2="1020" y2="262"/>
+      <line x1="265" y1="240" x2="935" y2="240"/>
+      <line x1="330" y1="222" x2="870" y2="222"/>
+      <line x1="380" y1="210" x2="820" y2="210"/>
+    </g>
+  </g>
+
+  <!-- drifting circuit nodes -->
+  <g fill="#00D4FF">
+    <circle cx="120" cy="80" r="2.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="70" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="150" r="2" fill="#9B51E0"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="170" r="2" fill="#6E44FF"><animate attributeName="opacity" values="1;0.3;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="130" r="1.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="140" r="1.8" fill="#9B51E0"><animate attributeName="opacity" values="1;0.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- orbiting ring around the wordmark -->
+  <g transform="translate(600 138)">
+    <ellipse rx="330" ry="78" fill="none" stroke="#6E44FF" stroke-width="1" opacity="0.35"/>
+    <ellipse rx="380" ry="96" fill="none" stroke="#00D4FF" stroke-width="1" opacity="0.18"/>
+    <circle r="5" fill="#00D4FF" filter="url(#softglow)">
+      <animateMotion dur="6s" repeatCount="indefinite" path="M 330 0 A 330 78 0 1 1 -330 0 A 330 78 0 1 1 330 0"/>
+    </circle>
+    <circle r="4" fill="#9B51E0" filter="url(#softglow)">
+      <animateMotion dur="6s" begin="-3s" repeatCount="indefinite" path="M 330 0 A 330 78 0 1 1 -330 0 A 330 78 0 1 1 330 0"/>
+    </circle>
+  </g>
+
+  <!-- wordmark -->
+  <text x="600" y="150" text-anchor="middle" font-family="'Trebuchet MS', Verdana, sans-serif"
+        font-size="104" font-weight="800" letter-spacing="14" fill="url(#neon)" filter="url(#glow)">OCXLY
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- subtitle -->
+  <text x="600" y="196" text-anchor="middle" font-family="'Trebuchet MS', Verdana, sans-serif"
+        font-size="18" font-weight="600" letter-spacing="11" fill="#9fb4d8">OBJECT &#183; CORE &#183; EXPERIENCE &#183; LABORATORY</text>
+
+  <!-- scan line -->
+  <rect x="120" y="0" width="960" height="2" fill="#00D4FF" opacity="0.55" filter="url(#softglow)">
+    <animate attributeName="y" values="46;208;46" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- status bar -->
+  <g font-family="'Courier New', monospace" font-size="13" fill="#00D4FF">
+    <circle cx="470" cy="234" r="4" fill="#39ff88"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+    <text x="484" y="238" fill="#7fe9d0">SYSTEM ONLINE</text>
+    <text x="640" y="238" fill="#9B51E0">// AI &#183; NEURODIVERSITY &#183; RESEARCH</text>
+  </g>
+</svg>
